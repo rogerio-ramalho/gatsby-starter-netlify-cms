@@ -4,6 +4,7 @@ import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
 import './all.sass'
 import useSiteMetadata from './SiteMetadata'
+@import url('https://res.cloudinary.com/storeimag/raw/upload/v1556652476/vdcc/estilo.css');
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata()
