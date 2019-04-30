@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Vida e Ciência
-image: /img/science-1182713_1920.jpg
+image: /img/puzzle-2500333_960_720.jpg
 heading: Ciência
 subheading: Conhecimento atento e aprofundado de tudo.
 mainpitch:
