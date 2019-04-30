@@ -10,7 +10,7 @@ tags:
   - dieta
   - saúde
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/salad-2756467_960_720.jpg)
 
 Há uma enorme quantidade de informações na Internet sobre como perder peso rapidamente e entrar em forma.
 
@@ -26,7 +26,7 @@ A chave real para a perda de peso segura e bem-sucedida é adotar um estilo de v
 
 As dicas a seguir são maneiras saudáveis ​​e realistas de colocá-lo de volta aos trilhos e seguir seus objetivos de peso e fitness.
 
-Aqui estão 25 das melhores dicas de dieta para melhorar sua saúde e ajudá-lo a perder peso .
+Aqui estão 25 das melhores dicas de dieta para melhorar sua saúde e ajudá-lo a perder peso.
 
 ## 1. Fibra
 
