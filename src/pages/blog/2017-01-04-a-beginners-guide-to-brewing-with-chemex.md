@@ -4,12 +4,12 @@ title: Como perder peso rapidamente 3 etapas simples
 date: 2017-04-30T16:04:10.000Z
 description: .
 featuredpost: false
-featuredimage: /img/chemex.jpg
+featuredimage: /img/weight-loss-2036969_960_720.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+![chemex](/img/weight-loss-2036969_960_720.jpg)
 
 Há muitas maneiras de perder muito peso rapidamente.
 
