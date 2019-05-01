@@ -8,9 +8,40 @@
 }
 
 .display h1, .display h3{
-    box-shadow: rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px;
-    background-color: rgb(255, 68, 0);
-    color: white;
+    box-shadow: #2B2523;
+    background-color: #2B2523;
+    color: #FF4400;
     line-height: 1;
     padding: 0.25em;
+}
+
+nav{
+    background-color: #2A1F1B !important;
+}
+
+nav a{
+    color: #FF4400 !important;
+}
+
+nav a:hover{
+    color: #ea4204 !important;
+}
+
+.blog{
+    background-color: #2B2523 !important;
+}
+
+.display-blog{
+    color: #ea4204;
+    padding: 1rem;
+}
+
+.full-width-image-container, .full-width-image{
+    height: 300px !important;
+}
+
+.logotipo{
+    font-weight: bold;
+    font-size: 21px;
+    color: #FF4400 !important;
 }
