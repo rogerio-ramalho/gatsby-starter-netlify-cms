@@ -1,4 +1,5 @@
 .display{
+    background-color: rgba(0,0,0,0.5);
     display: flex;
     height: 150px;
     line-height: 1;
@@ -76,4 +77,8 @@ a.has-text-primary, a.has-text-primary:hover, a.has-text-primary:focus {
 
 .margin-top-50_{
     margin-top: -50px !important;
+}
+
+p{
+    text-align: justify;
 }
