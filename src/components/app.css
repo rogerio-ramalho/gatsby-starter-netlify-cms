@@ -7,16 +7,14 @@
     flex-direction: column;
 }
 
-.display h1, .display h3{
-    box-shadow: #1F293E;
-    background-color: #1F293E;
+.display h1, .display h3{    
     color: #4DE764;
     line-height: 1;
     padding: 0.25em;
 }
 
 nav{
-    background-color: #1F293E !important;
+    background-color: rgba(31,41,62, 0.5) !important;
 }
 
 nav a{
@@ -37,7 +35,7 @@ nav a:hover{
 }
 
 .full-width-image-container, .full-width-image{
-    height: 300px !important;
+    height: 400px !important;
 }
 
 .logotipo{
@@ -74,4 +72,8 @@ body{
 a.has-text-primary, a.has-text-primary:hover, a.has-text-primary:focus {
     color: #1A4725 !important;
     text-decoration: none !important;
+}
+
+.margin-top-50_{
+    margin-top: -50px !important;
 }

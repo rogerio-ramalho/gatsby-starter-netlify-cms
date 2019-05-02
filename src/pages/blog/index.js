@@ -7,7 +7,7 @@ export default class BlogIndexPage extends React.Component {
   render() {
     return (
       <Layout>
-        <div className="full-width-image-container margin-top-0 blog">
+        <div className="full-width-image-container margin-top-50_ blog">
           <h1 className="has-text-weight-bold is-size-1 display-blog">
             Ultimos Posts
           </h1>
