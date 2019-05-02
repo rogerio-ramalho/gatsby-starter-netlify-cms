@@ -41,34 +41,32 @@ export const IndexPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
-                <div className="content">
-                  <div className="tile">
-                    <h1 className="title">{mainpitch.title}</h1>
+
+                <div className="columns">
+                  <div className="column is-6 card-light-white">
+                    <h3>Dicas para seu animal de estimação</h3>
+                    <img src="img/pet.png" className="img-card" ></img>
                   </div>
-                  <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
+                  <div className="column is-6 card-light-pink">
+                    <h3>Melhores dicas para uma dieta saudável</h3>
+                    <img src="img/dieta.jpg" className="img-card" ></img>
                   </div>
                 </div>
+
                 <div className="columns">
                   <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">
-                      {heading}
+                      Postagens
                     </h3>
-                    <p>{description}</p>
+                    <BlogRoll />
+                    <div className="column is-12 has-text-centered">
+                      <Link className="btn" to="/blog">
+                        Ver Mais
+                      </Link>
+                    </div>
                   </div>
                 </div>
-                <Features gridItems={intro.blurbs} />                
-                <div className="column is-12">
-                  <h3 className="has-text-weight-semibold is-size-2">
-                    Histórico antigo
-                  </h3>
-                  <BlogRoll />
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/blog">
-                      Carregar Mais
-                    </Link>
-                  </div>
-                </div>
+
               </div>
             </div>
           </div>

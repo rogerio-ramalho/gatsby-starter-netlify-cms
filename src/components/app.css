@@ -8,31 +8,31 @@
 }
 
 .display h1, .display h3{
-    box-shadow: #2B2523;
-    background-color: #2B2523;
-    color: #FF4400;
+    box-shadow: #1F293E;
+    background-color: #1F293E;
+    color: #4DE764;
     line-height: 1;
     padding: 0.25em;
 }
 
 nav{
-    background-color: #2A1F1B !important;
+    background-color: #1F293E !important;
 }
 
 nav a{
-    color: #FF4400 !important;
+    color: #4DE764 !important;
 }
 
 nav a:hover{
-    color: #ea4204 !important;
+    color: #61ff8a !important;
 }
 
 .blog{
-    background-color: #2B2523 !important;
+    background-color: #1F293E !important;
 }
 
 .display-blog{
-    color: #ea4204;
+    color: #4DE764;
     padding: 1rem;
 }
 
@@ -43,5 +43,35 @@ nav a:hover{
 .logotipo{
     font-weight: bold;
     font-size: 21px;
-    color: #FF4400 !important;
+    color: #4DE764 !important;
+}
+
+.card-light-white{
+    background-color: #f0f0f0;
+}
+
+img.img-card{
+    height: 150px;
+}
+
+.card-light-pink{
+    background-color: #f3dee2;
+}
+
+.blog-list-item.is-featured {
+    background-color: #f0f0f0;
+    border-radius: 0;
+}
+
+html{
+    background-color: #1F293E;
+}
+
+body{
+    background-color: #fff;
+}
+
+a.has-text-primary, a.has-text-primary:hover, a.has-text-primary:focus {
+    color: #1A4725 !important;
+    text-decoration: none !important;
 }
