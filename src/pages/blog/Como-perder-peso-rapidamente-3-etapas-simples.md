@@ -6,8 +6,9 @@ description: .
 featuredpost: false
 featuredimage: /img/weight-loss-2036969_960_720.jpg
 tags:
-  - brewing
-  - chemex
+  - perder peso
+  - dieta
+  - saúde
 ---
 ![chemex](/img/weight-loss-2036969_960_720.jpg)
 

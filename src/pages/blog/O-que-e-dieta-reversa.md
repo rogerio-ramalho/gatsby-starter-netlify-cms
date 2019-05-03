@@ -6,7 +6,9 @@ description: .
 featuredpost: false
 featuredimage: /img/apple-2391_960_720.jpg
 tags:
-  - dieta saúde perda de peso
+  - dieta
+  - perda de peso
+  - saúde
 ---
 ![](/img/apple-2391_960_720.jpg)
 

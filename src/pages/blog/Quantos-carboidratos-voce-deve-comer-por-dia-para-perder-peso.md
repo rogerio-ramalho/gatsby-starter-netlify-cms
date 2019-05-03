@@ -6,10 +6,8 @@ description: .
 featuredpost: true
 featuredimage: /img/bread-3467243_960_720.jpg
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - dieta
+  - saúde
 ---
 ![](/img/bread-3467243_960_720.jpg)
 

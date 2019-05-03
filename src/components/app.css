@@ -62,8 +62,8 @@ img.img-card{
     border-radius: 0;
 }
 
-html{
-    background-color: #1F293E;
+html, footer{
+    background-color: #1F293E !important;
 }
 
 body{
@@ -81,4 +81,14 @@ a.has-text-primary, a.has-text-primary:hover, a.has-text-primary:focus {
 
 p{
     text-align: justify;
+}
+
+.pad-l-0{padding-left: 0;} 
+.pad-r-0{padding-right: 0;}
+.pad-b-0{padding-bottom: 0;}
+.pad-t-0{padding-top: 0;}
+.radius-0{border-radius: 0;}
+
+.notification{
+    background-color: #F3DEE2;
 }
