@@ -92,3 +92,31 @@ p{
 .notification{
     background-color: #F3DEE2;
 }
+
+@media screen and (max-width: 800px) {
+    .section {
+        padding: 3rem .5rem;
+    }
+}
+
+.navbar-menu.is-active{
+    position: absolute;
+    width: 100%;
+    background-color: rgba(0,0,0,0.7);
+}
+        
+.navbar-menu.is-active a{	
+    border-bottom: 1px solid #000;
+}
+
+.navbar-menu.is-active a:hover{
+    background-color: rgba(0,0,0,0.5);
+}
+        
+.navbar-burger.burger {
+    background-color: rgba(0,0,0,0.3);
+}
+
+.navbar-burger.burger span{
+    border: 1px solid #fff;
+}
