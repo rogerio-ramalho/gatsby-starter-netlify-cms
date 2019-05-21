@@ -8,7 +8,7 @@ featuredimage: /img/apple-2391_960_720.jpg
 tags:
   - emagrecimento saúde
 ---
-![](/img/apple-2391_960_720.jpg)
+![](/img/instagram-2049639_1280.jpg)
 
 Quando você está procurando por um programa de perda de peso , é aconselhável procurar um que atenda às suas necessidades e o prepare para o sucesso a longo prazo.
 
