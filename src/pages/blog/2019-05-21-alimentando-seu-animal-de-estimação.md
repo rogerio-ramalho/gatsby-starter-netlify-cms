@@ -6,11 +6,11 @@ description: .
 featuredpost: true
 featuredimage: /img/feed-your-pet.jpg
 ---
+![](/img/feed-your-pet.jpg)
+
 Uma dieta saudável e equilibrada é essencial para um animal de estimação saudável e feliz. Não só irá fornecer seu animal de estimação com energia suficiente para o seu dia a dia, mas também é vital para o bom funcionamento do cérebro. Uma dieta adequada também é particularmente importante para os animais nos estágios iniciais de seu desenvolvimento.
 
 Uma das coisas mais importantes a se lembrar quando se trata de alimentar seu animal de estimação é alimentá-lo com um "estágio de vida". Diferentes animais, e em particular gatos e cães, requerem nutrição diferente em diferentes fases da sua vida. Por exemplo, filhotes em torno de 12 semanas de idade vão exigir cerca de 3 refeições por dia e não é até que eles atinjam cerca de 6 meses de idade que esse montante deve ser reduzido. Dito isto, seu animal pode preferir refeições menores e mais frequentes. Eles chave para alimentar seu animal de estimação corretamente é entender o que funciona melhor para eles.
-
-
 
 ## Métodos de alimentação
 
@@ -20,21 +20,15 @@ A alimentação dividida programada requer uma rotina rígida que você precisa 
 
 Se você não tiver certeza sobre qual método é o adequado para o seu animal de estimação, consulte seu veterinário, que ficará mais do que feliz em fornecer conselhos.
 
-
-
 ## Conselho geral de alimentação
 
 NÃO ofereça refeições caseiras. Estes podem não atender às complexas necessidades nutricionais do seu animal de estimação. Em vez disso, apegue-se a alimentos para animais especialmente formulados.
-
-
 
 ## Cães
 
 O primeiro ingrediente listado em qualquer comida de cachorro deve ser uma carne específica. Se o primeiro ingrediente listado for trigo, milho, subproduto de carne ou farinha de ossos, esse alimento para cães deve ser evitado. Os dentes dos cães são feitos principalmente de caninos que são projetados para triturar carne, não moer grãos. 
 
 Os cães devem ser mantidos na mesma marca e tipo de alimento, tanto quanto possível. Mudá-los regularmente pode causar uma dor de estômago. Se você tiver que mudar, tente introduzir o novo alimento gradualmente para que o sistema digestivo do seu cão tenha a chance de se ajustar.
-
-
 
 ## Gatos
 
@@ -43,8 +37,6 @@ Para os gatos, o odor de sua comida é particularmente importante, e eles prefer
 Os gatos naturalmente preferem pastar em pequenas refeições e, portanto, a alimentação livre é muitas vezes a escolha mais popular para as refeições. 
 
 Proteína e gorduras são os tipos de alimentos mais saborosos para gatos e eles preferem muito mais a textura da carne a qualquer outra coisa.
-
-
 
 ## Coelhos
 
