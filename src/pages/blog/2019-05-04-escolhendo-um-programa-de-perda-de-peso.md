@@ -4,7 +4,7 @@ title: Escolhendo um programa de perda de peso
 date: 2019-05-04T18:06:01.084Z
 description: .
 featuredpost: true
-featuredimage: /img/apple-2391_960_720.jpg
+featuredimage: /img/instagram-2049639_1280.jpg
 tags:
   - emagrecimento saúde
 ---
