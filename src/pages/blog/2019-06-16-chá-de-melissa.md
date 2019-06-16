@@ -5,6 +5,8 @@ date: 2019-06-16T14:50:49.113Z
 description: .
 featuredpost: true
 featuredimage: /img/melissa-2370813_960_720.jpg
+tags:
+  - chás
 ---
 ![](/img/melissa-2370813_960_720.jpg)
 
@@ -30,8 +32,6 @@ A planta é usada para tratar problemas da tiróide na Europa devido à sua capa
 
 Favorável para a pele saudável e jovem. A história da melissa usada como produto cosmético remonta a centenas de anos. É extremamente eficaz para suavizar a pele e reduzir as rugas ao mínimo.
 
-
-
 ## Benefícios para a saúde do chá Melissa
 
 Melissa ganhou reputação como uma erva poderosa que ajuda a saúde. A razão para ser chamado de capim-limão entre o público é que seu perfume lembra o limão. O apoio a uma vida longa e saudável pelos cientistas tornou esta planta medicinal ainda mais popular. Os benefícios são os seguintes;
@@ -45,3 +45,9 @@ Melissa ganhou reputação como uma erva poderosa que ajuda a saúde. A razão p
 * A planta Melissa é freqüentemente usada na indústria de cosméticos por causa de suas propriedades calmantes.
 * Concluiu-se que a melissa tem um efeito que aumenta a resistência à insulina quando se equilibra o açúcar no sangue.
 * Efeitos positivos da memória, pensamento saudável e serenidade, a pesquisa confirma que a planta da melissa protege as células cerebrais do perigo.
+
+
+
+## Onde encontrar?
+
+<https://kactu.com.br/produto/cha-de-melissa-5ba19cd50a2cf40e0415af2a>
