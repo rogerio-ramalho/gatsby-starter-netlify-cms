@@ -4,8 +4,10 @@ title: Chá de Maçã - 6 benefícios para a saúde
 date: 2019-06-16T15:28:00.643Z
 description: .
 featuredpost: true
-featuredimage: /img/apple-touch-icon.png
+featuredimage: /img/chá-de-maçã.jpg
 ---
+![](/img/chá-de-maçã.jpg)
+
 O chá de maçã é bastante novo no mercado e ganhou muita popularidade por causa dos benefícios que proporciona à saúde. É uma bebida quente e calmante que pode ser ótimo para você, se você quer perder peso ou apenas quer se sentir melhor e permanecer saudável nos invernos. Maçãs possuem muitos nutrientes essenciais e antioxidantes, o que os torna uma das frutas mais saudáveis do planeta. Então, quais são os benefícios para a saúde de beber chá de maçã?
 
 ## 1. Ajuda no controle do diabetes
@@ -31,8 +33,6 @@ Os flavonóides presentes no chá de maçã podem ajudar na prevenção de doen�
 ## 6. Aumenta a imunidade
 
 O chá de maçã contém antioxidantes que ajudam a impulsionar o sistema imunológico. Melhora a capacidade do sistema imunológico, que ajuda na luta contra muitos tipos de doenças e infecções.
-
-
 
 ## Onde encontrar?
 
